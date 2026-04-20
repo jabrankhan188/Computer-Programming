@@ -1,6 +1,6 @@
-// Name: M.Younas Khan
+// Name: Jabran Khan
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0741
+// Registration No: BF25NWELE0746
 // Section: A
 #include <iostream>
 using namespace std;
