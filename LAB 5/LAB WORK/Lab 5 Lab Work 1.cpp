@@ -1,6 +1,6 @@
-// Name: Shahzad faisal
+// Name: Jabran Khan
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0746
 // Section: A
 
 #include <iostream>     // Library used for input and output
